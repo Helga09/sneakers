@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sneakers:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-05-10T13:17:29.9555653+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 599331008b75b0d663a87dcced29952353bbdbed5a5e6c7fe9f6322601e63578
+    name: sneakers
+    type: application
+    urls:
+    - sneakers-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-05-10T13:17:29.9539995+03:00"
